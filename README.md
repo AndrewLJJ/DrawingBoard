@@ -4,10 +4,10 @@
 添加多图片涂鸦
 
 
-![image](https://gitee.com/ljj.com/multipicture_sketchpad/blob/master/WechatIMG128.jpeg)
+![image](https://github.com/AndrewLJJ/DrawingBoard/blob/master/WechatIMG128.jpeg)
 
 ### 最后保存的图片
-![image](https://gitee.com/ljj.com/multipicture_sketchpad/blob/master/WechatIMG127.jpeg)
+![image](https://github.com/AndrewLJJ/DrawingBoard/blob/master/WechatIMG127.jpeg)
 
 #### 使用说明
 
