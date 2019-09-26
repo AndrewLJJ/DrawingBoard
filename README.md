@@ -15,4 +15,4 @@
 2. 保存后可以在相册查看 
 
 ### 简单介绍
-掘金地址：![简单介绍](https://juejin.im/post/5d8acdd8e51d4577fc7b1be1)
+掘金地址：[简单介绍](https://juejin.im/post/5d8acdd8e51d4577fc7b1be1)
